@@ -10,7 +10,7 @@ export class NewsItem extends Component {
           <img
             src={
               !imageUrl
-                ? "https://im.indiatimes.in/content/2022/Jun/17pHolmes_071104_eder_vga_62a1f3ebe1834.jpg"
+                ? "https://cricketaddictor.com/wp-content/uploads/2022/06/ECS-T10-Austria-Dream11-Prediction-Fantasy-Cricket-Tips-Dream11-Team.jpeg"
                 : imageUrl
             }
             className="card-img-top"
