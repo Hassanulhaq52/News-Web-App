@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![News App image](https://user-images.githubusercontent.com/81625175/188310295-6f09ce84-3b65-4c6c-9799-1d2c6ce15879.gif)
+![newsapp](https://user-images.githubusercontent.com/81625175/189891875-dd0b6404-8cea-44a1-bd1a-bf0457c03b8d.gif)
 <img width="958" alt="1" src="https://user-images.githubusercontent.com/81625175/188310303-02c63f57-81e7-4ac5-9080-591620c82a20.PNG">
 <img width="951" alt="2" src="https://user-images.githubusercontent.com/81625175/188310306-f997a343-f5af-4bd7-aa6a-b43e5f669c0f.PNG">
 <img width="960" alt="3" src="https://user-images.githubusercontent.com/81625175/188310309-1be25db8-b01f-4bd4-9d13-0397c3938f04.PNG">
